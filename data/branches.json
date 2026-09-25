@@ -10,27 +10,27 @@
       "ar": "جامعة قاصدي مرباح ورقلة"
     },
     "manager": {
-      "ar": "اسم المسؤول"
+      "ar": "العياط عماد"
     },
     "contact": {
       "phone": "",
-      "email": "",
+      "email": "imadlayat059@gmail.com",
       "facebook": ""
     },
-    "image": ""
+    "image": "images/univ-ouargla.jpg"
   },
   {
     "id": "branch-2",
     "sample": true,
     "type": "faculty",
     "name": {
-      "ar": "فرع كلية (اسم الكلية)"
+      "ar": "فرع كلية المحروقات"
     },
     "institution": {
       "ar": "جامعة قاصدي مرباح ورقلة"
     },
     "manager": {
-      "ar": "اسم المسؤول"
+      "ar": ""
     },
     "contact": {
       "phone": "",
@@ -64,13 +64,13 @@
     "sample": true,
     "type": "faculty",
     "name": {
-      "ar": "فرع معهد (اسم المعهد)"
+      "ar": "فرع معهد نظافة وامن صناعي"
     },
     "institution": {
       "ar": "جامعة قاصدي مرباح ورقلة"
     },
     "manager": {
-      "ar": "اسم المسؤول"
+      "ar": "سيتم التنصيب قريبا"
     },
     "contact": {
       "phone": "",
@@ -84,13 +84,13 @@
     "sample": true,
     "type": "residence",
     "name": {
-      "ar": "فرع الإقامة الجامعية (اسم الإقامة)"
+      "ar": "فرع الإقامة الجامعية حساني)"
     },
     "institution": {
       "ar": "الإقامة الجامعية"
     },
     "manager": {
-      "ar": "اسم المسؤول"
+      "ar": "بن ميسوم سارة"
     },
     "contact": {
       "phone": "",
@@ -104,13 +104,13 @@
     "sample": true,
     "type": "residence",
     "name": {
-      "ar": "فرع الإقامة الجامعية (اسم الإقامة)"
+      "ar": "فرع الإقامة الجامعية بن الشيخ التلي"
     },
     "institution": {
       "ar": "الإقامة الجامعية"
     },
     "manager": {
-      "ar": "اسم المسؤول"
+      "ar": "بوغباش أيوب"
     },
     "contact": {
       "phone": "",
