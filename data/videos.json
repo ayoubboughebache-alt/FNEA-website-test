@@ -1,0 +1,41 @@
+{
+  "_readme": "platform: youtube | facebook | instagram | tiktok. ضع الرابط الكامل في url. فيديوهات YouTube تُشغَّل داخل الموقع، والبقية تُفتح في المنصة.",
+  "videos": [
+    {
+      "id": "video-1",
+      "sample": true,
+      "platform": "youtube",
+      "url": "",
+      "thumbnail": "/images/activities/orientation.webp",
+      "title": {
+        "ar": "فيديو تعريفي بالمكتب (قريبًا)",
+        "fr": "Vidéo de présentation (bientôt)",
+        "en": "Introduction video (coming soon)"
+      }
+    },
+    {
+      "id": "video-2",
+      "sample": true,
+      "platform": "facebook",
+      "url": "",
+      "thumbnail": "/images/activities/welcome.webp",
+      "title": {
+        "ar": "لقطات من استقبال الطلبة الجدد (قريبًا)",
+        "fr": "Accueil des nouveaux étudiants (bientôt)",
+        "en": "New students welcome (coming soon)"
+      }
+    },
+    {
+      "id": "video-3",
+      "sample": true,
+      "platform": "instagram",
+      "url": "",
+      "thumbnail": "/images/activities/volunteer.webp",
+      "title": {
+        "ar": "Reel: حملة تطوعية (قريبًا)",
+        "fr": "Reel : campagne de volontariat (bientôt)",
+        "en": "Reel: volunteer campaign (coming soon)"
+      }
+    }
+  ]
+}

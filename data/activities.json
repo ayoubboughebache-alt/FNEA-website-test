@@ -1,0 +1,93 @@
+[
+  {
+    "id": "welcome-new-students",
+    "sample": true,
+    "category": "welcome",
+    "image": "/images/activities/welcome.webp",
+    "title": { "ar": "استقبال الطلبة الجدد", "fr": "Accueil des nouveaux étudiants", "en": "Welcoming new students" },
+    "date": "2026-09-20",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "نقاط استقبال وتوجيه لمساعدة الطلبة الجدد في أيامهم الأولى بالجامعة.", "fr": "Points d'accueil et d'orientation pour les premiers jours à l'université.", "en": "Welcome and guidance desks for students' first days on campus." },
+    "body": { "ar": [
+      "مثال لنص تفصيلي عن النشاط: ينظم المكتب نقاط استقبال لمساعدة الطلبة الجدد على التعرف على مرافق الجامعة وإجراءات التسجيل.",
+      "يمكن استبدال هذا النص بالتفاصيل الحقيقية للنشاط من ملف activities.json."
+    ] }
+  },
+  {
+    "id": "orientation-days",
+    "sample": true,
+    "category": "orientation",
+    "image": "/images/activities/orientation.webp",
+    "title": { "ar": "أيام توجيهية", "fr": "Journées d'orientation", "en": "Orientation days" },
+    "date": "2026-10-05",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "لقاءات تعريفية بنظام LMD، التقييم، والتنقل بين السداسيات.", "fr": "Séances de présentation du système LMD et de l'évaluation.", "en": "Sessions introducing the LMD system and assessment." },
+    "body": { "ar": ["مثال: يوم توجيهي يشرح نظام LMD وطرق حساب المعدل والاستدراك والتعويض.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "pedagogical-meetings",
+    "sample": true,
+    "category": "meetings",
+    "image": "/images/activities/meeting.webp",
+    "title": { "ar": "لقاءات بيداغوجية", "fr": "Rencontres pédagogiques", "en": "Academic meetings" },
+    "date": "2026-10-15",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "نقل انشغالات الطلبة البيداغوجية ومناقشتها مع الجهات المعنية.", "fr": "Transmettre et discuter les préoccupations pédagogiques.", "en": "Conveying and discussing students' academic concerns." },
+    "body": { "ar": ["مثال: لقاء لطرح الانشغالات البيداغوجية التي جمعها المكتب من الطلبة.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "awareness-campaign",
+    "sample": true,
+    "category": "campaigns",
+    "image": "/images/activities/awareness.webp",
+    "title": { "ar": "حملة تحسيسية", "fr": "Campagne de sensibilisation", "en": "Awareness campaign" },
+    "date": "2026-11-02",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "حملة تحسيسية لفائدة الطلبة حول الصحة والسلامة.", "fr": "Sensibilisation des étudiants à la santé et à la sécurité.", "en": "Raising students' awareness on health and safety." },
+    "body": { "ar": ["مثال لنص حملة تحسيسية.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "cultural-evening",
+    "sample": true,
+    "category": "culture",
+    "image": "/images/activities/culture.webp",
+    "title": { "ar": "سهرة ثقافية", "fr": "Soirée culturelle", "en": "Cultural evening" },
+    "date": "2026-11-20",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "أمسية فنية وثقافية يحييها الطلبة.", "fr": "Une soirée artistique animée par les étudiants.", "en": "An artistic evening led by students." },
+    "body": { "ar": ["مثال لنص نشاط ثقافي.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "sports-tournament",
+    "sample": true,
+    "category": "sport",
+    "image": "/images/activities/sport.webp",
+    "title": { "ar": "دورة رياضية", "fr": "Tournoi sportif", "en": "Sports tournament" },
+    "date": "2026-12-05",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "دورة رياضية بين الطلبة لتعزيز روح الفريق.", "fr": "Un tournoi entre étudiants pour l'esprit d'équipe.", "en": "A student tournament to build team spirit." },
+    "body": { "ar": ["مثال لنص نشاط رياضي.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "scientific-workshop",
+    "sample": true,
+    "category": "workshops",
+    "image": "/images/activities/workshop.webp",
+    "title": { "ar": "ورشة علمية", "fr": "Atelier scientifique", "en": "Scientific workshop" },
+    "date": "2026-12-12",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "ورشة تكوينية في منهجية البحث وإعداد العروض.", "fr": "Atelier sur la méthodologie et les présentations.", "en": "A workshop on research methods and presentations." },
+    "body": { "ar": ["مثال لنص ورشة علمية.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  },
+  {
+    "id": "volunteer-campaign",
+    "sample": true,
+    "category": "campaigns",
+    "image": "/images/activities/volunteer.webp",
+    "title": { "ar": "حملة تطوعية", "fr": "Campagne de volontariat", "en": "Volunteer campaign" },
+    "date": "2027-01-10",
+    "location": { "ar": "مكان النشاط (يُحدَّد)", "fr": "Lieu à préciser", "en": "Venue TBA" },
+    "summary": { "ar": "حملة تشجير وتنظيف داخل الحرم الجامعي.", "fr": "Plantation et nettoyage sur le campus.", "en": "Tree planting and campus clean-up." },
+    "body": { "ar": ["مثال لنص حملة تطوعية.", "استبدل هذا النص بالتفاصيل الحقيقية."] }
+  }
+]

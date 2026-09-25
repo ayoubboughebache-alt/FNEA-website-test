@@ -1,0 +1,54 @@
+[
+  {
+    "id": "member-nadhir",
+    "sample": false,
+    "name": {
+      "ar": "عليتسة نذير",
+      "fr": "Nadhir Alietsa",
+      "en": "Nadhir Alietsa"
+    },
+    "role": {
+      "ar": "رئيس المكتب الوطني للمنتدى الوطني للطلبة الجزائريين",
+      "fr": "Président du bureau national du Forum National des Étudiants Algériens",
+      "en": "President of the National Office of the National Forum of Algerian Students"
+    },
+    "unit": {
+      "ar": "المكتب الوطني",
+      "fr": "Bureau national",
+      "en": "National Office"
+    },
+    "photo": "/images/member-nadhir.jpg",
+    "bio": {
+      "ar": "رئيس المكتب الوطني للمنتدى الوطني للطلبة الجزائريين، ويقود العمل الوطني للمنتدى في مرافقة الطلبة وتمثيل انشغالاتهم ودعم المبادرات الطلابية.",
+      "fr": "Président du bureau national, il coordonne l’action nationale du forum, l’accompagnement des étudiants et le soutien aux initiatives étudiantes.",
+      "en": "President of the National Office, coordinating the forum’s national work, student support and student initiatives."
+    },
+    "order": 1
+  },
+  {
+    "id": "member-abderrahmane",
+    "sample": false,
+    "name": {
+      "ar": "عبد الرحمان ياحي",
+      "fr": "Abderrahmane Yahi",
+      "en": "Abderrahmane Yahi"
+    },
+    "role": {
+      "ar": "الأمين العام للمنتدى الوطني للطلبة الجزائريين",
+      "fr": "Secrétaire général du Forum National des Étudiants Algériens",
+      "en": "Secretary General of the National Forum of Algerian Students"
+    },
+    "unit": {
+      "ar": "الأمانة العامة",
+      "fr": "Secrétariat général",
+      "en": "General Secretariat"
+    },
+    "photo": "/images/member-abderrahmane.jpg",
+    "bio": {
+      "ar": "الأمين العام للمنتدى الوطني للطلبة الجزائريين، ويساهم في تنظيم العمل الداخلي ومتابعة نشاطات المنتدى وتعزيز التواصل بين هياكله والطلبة.",
+      "fr": "Secrétaire général, il contribue à l’organisation interne, au suivi des activités et au renforcement de la communication entre les structures du forum et les étudiants.",
+      "en": "Secretary General, contributing to internal organisation, activity follow-up and communication between the forum’s structures and students."
+    },
+    "order": 2
+  }
+]

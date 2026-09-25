@@ -1,0 +1,142 @@
+[
+  {
+    "id": "branch-1",
+    "sample": true,
+    "type": "university",
+    "name": {
+      "ar": "فرع الجامعة"
+    },
+    "institution": {
+      "ar": "جامعة قاصدي مرباح ورقلة"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-2",
+    "sample": true,
+    "type": "faculty",
+    "name": {
+      "ar": "فرع كلية (اسم الكلية)"
+    },
+    "institution": {
+      "ar": "جامعة قاصدي مرباح ورقلة"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-3",
+    "sample": true,
+    "type": "faculty",
+    "name": {
+      "ar": "فرع كلية (اسم الكلية)"
+    },
+    "institution": {
+      "ar": "جامعة قاصدي مرباح ورقلة"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-4",
+    "sample": true,
+    "type": "faculty",
+    "name": {
+      "ar": "فرع معهد (اسم المعهد)"
+    },
+    "institution": {
+      "ar": "جامعة قاصدي مرباح ورقلة"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-5",
+    "sample": true,
+    "type": "residence",
+    "name": {
+      "ar": "فرع الإقامة الجامعية (اسم الإقامة)"
+    },
+    "institution": {
+      "ar": "الإقامة الجامعية"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-6",
+    "sample": true,
+    "type": "residence",
+    "name": {
+      "ar": "فرع الإقامة الجامعية (اسم الإقامة)"
+    },
+    "institution": {
+      "ar": "الإقامة الجامعية"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "branch-7",
+    "sample": true,
+    "type": "institution",
+    "name": {
+      "ar": "فرع مؤسسة جامعية (اسم المؤسسة)"
+    },
+    "institution": {
+      "ar": "مؤسسة جامعية"
+    },
+    "manager": {
+      "ar": "اسم المسؤول"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "facebook": ""
+    },
+    "image": ""
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "welcome-2026",
+    "sample": true,
+    "image": "/images/news/welcome.webp",
+    "date": "2026-09-15",
+    "category": { "ar": "إعلان", "fr": "Annonce", "en": "Announcement" },
+    "title": { "ar": "مثال: إطلاق برنامج استقبال الطلبة الجدد", "fr": "Exemple : lancement du programme d'accueil", "en": "Example: new students welcome programme" },
+    "summary": { "ar": "هذا خبر تجريبي يوضح شكل بطاقة الخبر. استبدله بخبر حقيقي من ملف news.json.", "fr": "Actualité d'exemple. Remplacez-la dans news.json.", "en": "Sample news item. Replace it in news.json." },
+    "body": { "ar": [
+      "هذا نص تجريبي لخبر كامل. يمكنك كتابة الخبر على شكل فقرات، كل فقرة في سطر داخل المصفوفة body.",
+      "لإضافة خبر جديد: انسخ هذا العنصر في ملف public/data/news.json وغيّر المعرّف id والعنوان والتاريخ والصورة والنص."
+    ] }
+  },
+  {
+    "id": "scholarship-reminder",
+    "sample": true,
+    "image": "/images/news/meeting.webp",
+    "date": "2026-09-10",
+    "category": { "ar": "تذكير", "fr": "Rappel", "en": "Reminder" },
+    "title": { "ar": "مثال: تذكير بمواعيد إيداع ملفات المنحة", "fr": "Exemple : rappel des délais de bourse", "en": "Example: scholarship deadlines reminder" },
+    "summary": { "ar": "خبر تجريبي. ضع هنا المواعيد الرسمية عند الإعلان عنها من طرف الجهات المختصة.", "fr": "Actualité d'exemple.", "en": "Sample news item." },
+    "body": { "ar": ["نص تجريبي. لا تعتمد على هذا الخبر، فهو مثال فقط لشكل الصفحة."] }
+  },
+  {
+    "id": "orientation-day",
+    "sample": true,
+    "image": "/images/news/orientation.webp",
+    "date": "2026-09-05",
+    "category": { "ar": "نشاط", "fr": "Activité", "en": "Activity" },
+    "title": { "ar": "مثال: يوم توجيهي حول نظام LMD", "fr": "Exemple : journée d'orientation LMD", "en": "Example: LMD orientation day" },
+    "summary": { "ar": "خبر تجريبي يوضح طريقة عرض الأخبار المرتبطة بالنشاطات.", "fr": "Actualité d'exemple.", "en": "Sample news item." },
+    "body": { "ar": ["نص تجريبي لخبر مرتبط بنشاط."] }
+  },
+  {
+    "id": "awareness",
+    "sample": true,
+    "image": "/images/news/awareness.webp",
+    "date": "2026-08-28",
+    "category": { "ar": "حملة", "fr": "Campagne", "en": "Campaign" },
+    "title": { "ar": "مثال: حملة تحسيسية لفائدة الطلبة", "fr": "Exemple : campagne de sensibilisation", "en": "Example: awareness campaign" },
+    "summary": { "ar": "خبر تجريبي. استبدله بالمحتوى الحقيقي.", "fr": "Actualité d'exemple.", "en": "Sample news item." },
+    "body": { "ar": ["نص تجريبي."] }
+  }
+]

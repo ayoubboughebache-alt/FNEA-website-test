@@ -1,0 +1,71 @@
+[
+  {
+    "id": "orientation",
+    "icon": "Compass",
+    "title": { "ar": "التوجيه الجامعي", "fr": "Orientation universitaire", "en": "University guidance" },
+    "description": { "ar": "مساعدة الطلبة الجدد على فهم نظام LMD والحياة الجامعية.", "fr": "Aider les nouveaux étudiants à comprendre le système LMD et la vie universitaire.", "en": "Helping new students understand the LMD system and university life." },
+    "cta": { "ar": "دليل الطالب", "fr": "Guide de l'étudiant", "en": "Student guide" },
+    "link": "/guide#lmd"
+  },
+  {
+    "id": "pedagogy",
+    "icon": "BookOpenCheck",
+    "title": { "ar": "المرافقة البيداغوجية", "fr": "Accompagnement pédagogique", "en": "Academic support" },
+    "description": { "ar": "جمع الانشغالات المتعلقة بالدراسة، المحاضرات، TD وTP والامتحانات.", "fr": "Recueillir les préoccupations liées aux cours, TD, TP et examens.", "en": "Collecting concerns about lectures, tutorials, labs and exams." },
+    "cta": { "ar": "أرسل انشغالًا بيداغوجيًا", "fr": "Signaler un problème", "en": "Report an issue" },
+    "link": "/submit?category=pedagogy"
+  },
+  {
+    "id": "registration",
+    "icon": "ClipboardList",
+    "title": { "ar": "التسجيلات والإجراءات", "fr": "Inscriptions et démarches", "en": "Registration & procedures" },
+    "description": { "ar": "توجيه الطلبة حول التسجيلات والملفات والإجراءات الجامعية.", "fr": "Orienter les étudiants sur les inscriptions, dossiers et démarches.", "en": "Guiding students on registration, files and procedures." },
+    "cta": { "ar": "اعرف الإجراءات", "fr": "Voir les démarches", "en": "See procedures" },
+    "link": "/guide#registration"
+  },
+  {
+    "id": "housing",
+    "icon": "BedDouble",
+    "title": { "ar": "الإقامة والنقل", "fr": "Hébergement et transport", "en": "Housing & transport" },
+    "description": { "ar": "المساعدة في طرح ومتابعة انشغالات الطلبة المتعلقة بالإقامة والنقل.", "fr": "Porter et suivre les préoccupations liées à l'hébergement et au transport.", "en": "Raising and following up housing and transport concerns." },
+    "cta": { "ar": "أرسل انشغالك", "fr": "Envoyer", "en": "Submit" },
+    "link": "/submit?category=housing"
+  },
+  {
+    "id": "scholarship",
+    "icon": "Wallet",
+    "title": { "ar": "المنح الجامعية", "fr": "Bourses universitaires", "en": "Scholarships" },
+    "description": { "ar": "توجيه الطلبة حول ملفات المنحة ومواعيد وإجراءات إيداع الملفات.", "fr": "Informer sur les dossiers de bourse, les délais et le dépôt.", "en": "Guidance on scholarship files, deadlines and submission." },
+    "cta": { "ar": "كل شيء عن المنحة", "fr": "Tout sur la bourse", "en": "About scholarships" },
+    "link": "/guide#scholarship"
+  },
+  {
+    "id": "listening",
+    "icon": "MessagesSquare",
+    "title": { "ar": "الاستماع لانشغالات الطلبة", "fr": "Écoute des étudiants", "en": "Listening to students" },
+    "description": { "ar": "منصة يستطيع الطالب من خلالها إرسال انشغاله أو اقتراحه.", "fr": "Une plateforme pour envoyer une préoccupation ou une suggestion.", "en": "A platform to send a concern or a suggestion." },
+    "cta": { "ar": "أرسل انشغالك", "fr": "Envoyer", "en": "Submit" },
+    "link": "/submit"
+  }
+    , {
+    "id": "join-us",
+    "icon": "Users",
+    "title": {
+      "ar": "الانضمام وفريق التطوع",
+      "fr": "Rejoindre l'équipe",
+      "en": "Join our team"
+    },
+    "description": {
+      "ar": "هل ترغب في تطوير مهاراتك وخدمة زملائك؟ انضم إلى فريقنا وشارك في تنظيم وتأطير النشاطات.",
+      "fr": "Vous souhaitez développer vos compétences ? Rejoignez notre équipe et participez à l'organisation des activités.",
+      "en": "Want to develop your skills? Join our team and help organize activities."
+    },
+    "cta": {
+      "ar": "سجل كمتطوع الآن",
+      "fr": "S'inscrire",
+      "en": "Sign up now"
+    },
+    "link": "https://forms.gle/ywrQHtsKKET5FrzQA"
+  }
+
+]

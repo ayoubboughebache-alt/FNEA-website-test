@@ -1,0 +1,109 @@
+{
+  "_readme": "أضف صورك في public/images/gallery ثم أضف سطرًا هنا. الفئات: activities, meetings, campaigns, welcome, workshops, events",
+  "categories": [
+    "activities",
+    "meetings",
+    "campaigns",
+    "welcome",
+    "workshops",
+    "events"
+  ],
+  "photos": [
+    {
+      "id": "photo-1",
+      "sample": true,
+      "category": "activities",
+      "src": "/images/gallery/welcome.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-2",
+      "sample": true,
+      "category": "meetings",
+      "src": "/images/gallery/meeting.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-3",
+      "sample": true,
+      "category": "campaigns",
+      "src": "/images/gallery/awareness.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-4",
+      "sample": true,
+      "category": "welcome",
+      "src": "/images/gallery/orientation.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-5",
+      "sample": true,
+      "category": "workshops",
+      "src": "/images/gallery/workshop.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-6",
+      "sample": true,
+      "category": "events",
+      "src": "/images/gallery/culture.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-7",
+      "sample": true,
+      "category": "activities",
+      "src": "/images/gallery/sport.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    },
+    {
+      "id": "photo-8",
+      "sample": true,
+      "category": "campaigns",
+      "src": "/images/gallery/volunteer.webp",
+      "alt": {
+        "ar": "صورة من نشاط طلابي (صورة توضيحية)"
+      },
+      "caption": {
+        "ar": "صورة توضيحية – استبدلها بصورة حقيقية"
+      }
+    }
+  ]
+}

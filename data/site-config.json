@@ -1,0 +1,108 @@
+{
+  "_readme": "ملف الإعدادات الرئيسي. كل القيم الفارغة \"\" هي بيانات يجب أن تزودها أنت. القيم الفارغة لا تظهر كروابط في الموقع.",
+  "orgName": {
+    "ar": "المنتدى الوطني للطلبة الجزائريين",
+    "fr": "Forum National des Étudiants Algériens",
+    "en": "National Forum of Algerian Students"
+  },
+  "orgFullName": {
+    "ar": "المنتدى الوطني للطلبة الجزائريين",
+    "fr": "Forum National des Étudiants Algériens",
+    "en": "National Forum of Algerian Students"
+  },
+  "shortName": "FNEA",
+  "logo": {
+    "src": "/images/logo.jpg",
+    "alt": "شعار المنتدى الوطني للطلبة الجزائريين FNEA"
+  },
+  "theme": {
+    "primary": "#087A4B",
+    "primaryDark": "#045333",
+    "accent": "#D71920",
+    "surface": "#F4F8F5",
+    "ink": "#10231A"
+  },
+  "hero": {
+    "image": "/images/hero.webp",
+    "title": {
+      "ar": "المنتدى الوطني للطلبة الجزائريين",
+      "fr": "Forum National des Étudiants Algériens",
+      "en": "National Forum of Algerian Students"
+    },
+    "slogan": {
+      "ar": "من أجل طالب واعٍ... ومستقبل أفضل للجزائر",
+      "fr": "Pour un étudiant conscient... et un avenir meilleur pour l’Algérie",
+      "en": "For an aware student... and a better future for Algeria"
+    },
+    "description": {
+      "ar": "إطار طلابي وطني يعمل على توحيد جهود الطلبة، الدفاع عن حقوقهم، والمساهمة في تطوير الحياة الجامعية والوطنية.",
+      "fr": "Un cadre étudiant national qui œuvre à unir les efforts des étudiants, défendre leurs droits et contribuer à la vie universitaire et nationale.",
+      "en": "A national student framework that works to unite students, defend their rights, and contribute to university and national life."
+    }
+  },
+  "about": {
+    "image": "/images/about.webp",
+    "short": {
+      "ar": "المنتدى الوطني للطلبة الجزائريين إطار طلابي وطني يسعى إلى توحيد جهود الطلبة والدفاع عن مصالحهم والمساهمة في تطوير الجامعة والمجتمع، من خلال العمل الطلابي، الثقافي، الاجتماعي، والتوعوي.",
+      "fr": "Le Forum National des Étudiants Algériens est un cadre étudiant national qui œuvre à unir les efforts des étudiants, défendre leurs intérêts et contribuer au développement de l’université et de la société.",
+      "en": "The National Forum of Algerian Students is a national student framework that seeks to unite students, defend their interests, and contribute to the development of the university and society."
+    }
+  },
+  "contact": {
+    "_readme": "بيانات التواصل. اتركها فارغة إلى أن تتوفر لديك البيانات الحقيقية.",
+    "email": "",
+    "phone": "",
+    "whatsapp": "",
+    "address": {
+      "ar": "",
+      "fr": "",
+      "en": ""
+    },
+    "officeHours": {
+      "ar": "",
+      "fr": "",
+      "en": ""
+    },
+    "mapEmbedUrl": ""
+  },
+  "social": {
+    "_readme": "روابط الشبكات الاجتماعية الكاملة مثل https://facebook.com/xxxx",
+    "facebook": "https://facebook.com/61586655171515",
+    "instagram": "https://instagram.com/fnea_ouargla_30",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "forms": {
+    "_readme": "provider: none | formspree | googleForms | supabase | email. راجع README لطريقة الربط.",
+    "provider": "none",
+    "showPreviewNotice": true,
+    "maxFileSizeMB": 5,
+    "formspree": {
+      "endpoint": ""
+    },
+    "googleForms": {
+      "actionUrl": "",
+      "fields": {
+        "fullName": "",
+        "email": "",
+        "phone": "",
+        "university": "",
+        "faculty": "",
+        "level": "",
+        "category": "",
+        "subject": "",
+        "message": ""
+      }
+    },
+    "supabase": {
+      "url": "",
+      "anonKey": "",
+      "table": "concerns",
+      "bucket": "concern-files"
+    },
+    "email": {
+      "to": ""
+    }
+  },
+  "showSampleBadges": true
+}
