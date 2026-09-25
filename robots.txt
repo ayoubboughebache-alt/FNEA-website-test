@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# بعد النشر: أضف رابط sitemap هنا
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
