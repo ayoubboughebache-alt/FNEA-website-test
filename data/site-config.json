@@ -75,10 +75,10 @@
   "forms": {
     "_readme": "provider: none | formspree | googleForms | supabase | email. راجع README لطريقة الربط.",
     "provider": "none",
-    "showPreviewNotice": true,
+    "showPreviewNotice": false,
     "maxFileSizeMB": 5,
     "formspree": {
-      "endpoint": ""
+      "endpoint": "https://formspree.io/f/mqpadngj"
     },
     "googleForms": {
       "actionUrl": "",
