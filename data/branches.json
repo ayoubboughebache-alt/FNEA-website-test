@@ -1,16 +1,17 @@
 [
-  {
+
+    {
     "id": "branch-1",
-    "sample": true,
+    "sample": false,
     "type": "university",
     "name": {
-      "ar": "فرع الجامعة"
+      "ar": "المكتب الولائي"
     },
     "institution": {
       "ar": "جامعة قاصدي مرباح ورقلة"
     },
     "manager": {
-      "ar": "العياط عماد"
+      "ar": "العياط محمد عماد الدين (رئيس المكتب الولائي)"
     },
     "contact": {
       "phone": "",
@@ -18,7 +19,8 @@
       "facebook": ""
     },
     "image": "images/univ-ouargla.jpg"
-  },
+    }
+  ,
   {
     "id": "branch-2",
     "sample": true,
