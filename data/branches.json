@@ -23,7 +23,7 @@
   ,
   {
     "id": "branch-2",
-    "sample": true,
+    "sample": false,
     "type": "faculty",
     "name": {
       "ar": "فرع كلية المحروقات"
@@ -43,7 +43,7 @@
   },
   {
     "id": "branch-3",
-    "sample": true,
+    "sample": false,
     "type": "faculty",
     "name": {
       "ar": "فرع كلية (اسم الكلية)"
@@ -63,7 +63,7 @@
   },
   {
     "id": "branch-4",
-    "sample": true,
+    "sample": false,
     "type": "faculty",
     "name": {
       "ar": "فرع معهد نظافة وامن صناعي"
@@ -83,7 +83,7 @@
   },
   {
     "id": "branch-5",
-    "sample": true,
+    "sample": false,
     "type": "residence",
     "name": {
       "ar": "فرع الإقامة الجامعية حساني)"
@@ -103,7 +103,7 @@
   },
   {
     "id": "branch-6",
-    "sample": true,
+    "sample": false,
     "type": "residence",
     "name": {
       "ar": "فرع الإقامة الجامعية بن الشيخ التلي"
