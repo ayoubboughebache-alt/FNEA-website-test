@@ -15,9 +15,9 @@
       ]
     },
     "images": [
-      "/images/lgali-1.jpg",
-      "/images/lgali-2.jpg",
-      "/images/lgali-3.jpg"
+      "./images/lgali-1.jpg",
+      "./images/lgali-2.jpg",
+      "./images/lgali-3.jpg"
     ]
   },
   {
@@ -36,8 +36,8 @@
       ]
     },
     "images": [
-      "/images/fnea-1.jpg",
-      "/images/fnea-2.jpg"
+      "./images/fnea-1.jpg",
+      "./images/fnea-2.jpg"
     ]
   },
   {
@@ -58,8 +58,8 @@
       ]
     },
     "images": [
-      "/images/activity-pic2.jpg",
-      "/images/activity-pic2.jpg"
+      "./images/activity-pic2.jpg",
+      "./images/activity-pic2.jpg"
     ]
   },
   {
